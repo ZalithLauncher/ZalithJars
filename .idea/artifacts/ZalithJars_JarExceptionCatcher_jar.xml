@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZalithJars.JarExceptionCatcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZalithJars_JarExceptionCatcher_jar</output-path>
+    <root id="archive" name="ZalithJars.JarExceptionCatcher.jar">
+      <element id="module-output" name="ZalithJars.JarExceptionCatcher.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/JarExceptionCatcher/src/main/resources" />
+    </root>
+  </artifact>
+</component>

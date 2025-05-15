@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group = 'movtery'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.javassist', name: 'javassist', version: '3.29.2-GA'
+}

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZalithJars.AWTBlockerAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZalithJars_AWTBlockerAgent_jar</output-path>
+    <root id="archive" name="ZalithJars.AWTBlockerAgent.jar">
+      <element id="module-output" name="ZalithJars.AWTBlockerAgent.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/AWTBlockerAgent/src/main/resources" />
+      <element id="library" level="project" name="Gradle: org.javassist:javassist:3.29.2-GA" />
+    </root>
+  </artifact>
+</component>
